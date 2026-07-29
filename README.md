@@ -1,4 +1,4 @@
-# quantcheck
+# TurboVec Quantization Benchmark
  
 **Does TurboVec (TurboQuant-based vector compression) hold up on exact-fact
 retrieval, or does it only work for fuzzy semantic similarity?**
